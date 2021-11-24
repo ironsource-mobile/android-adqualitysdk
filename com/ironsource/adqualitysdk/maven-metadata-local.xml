@@ -3,7 +3,7 @@
   <groupId>com.ironsource</groupId>
   <artifactId>adqualitysdk</artifactId>
   <versioning>
-    <release>6.7.1</release>
+    <release>6.7.2</release>
     <versions>
       <version>6.0.0</version>
       <version>6.0.1</version>
@@ -19,7 +19,8 @@
       <version>6.6.0</version>
       <version>6.7.0</version>
       <version>6.7.1</version>
+      <version>6.7.2</version>
     </versions>
-    <lastUpdated>20211117144142</lastUpdated>
+    <lastUpdated>20211124100801</lastUpdated>
   </versioning>
 </metadata>
