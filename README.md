@@ -1,4 +1,4 @@
-# android-adqualitysdk  
+# Android AdQuality SDK
 
 ## Getting started
 Use this documentation to integrate the ironSource AdQuality SDK: [here](https://developers.is.com/ironsource-mobile/android/sdk-integration-guides/)
